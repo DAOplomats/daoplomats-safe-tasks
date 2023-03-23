@@ -1,0 +1,24 @@
+[
+    {
+        "to": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "value": "0",
+        "method": "approve(address,uint256)",
+        "params": [
+            "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
+            "1000000000000"
+        ],
+        "operation": 0
+    },
+    {
+        "to": "0x87870Bca3F3fD6335C3F4ce8392D69350B4fA4E2",
+        "value": "0",
+        "method": "supply(address asset, uint256 amount, address onBehalfOf, uint16 referralCode)",
+        "params": [
+            "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "1000000000000",
+            "0x7951c7ef839e26F63DA87a42C9a87986507f1c07",
+            "0"
+        ],
+        "operation": 0
+    }
+]
