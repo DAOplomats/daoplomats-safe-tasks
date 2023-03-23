@@ -1,5 +1,5 @@
 # DAOStewards SafeSnap Transactions
-SafeSnap transactions prepared for DAOStewards
+SafeSnap transaction bundles prepared for DAOplomats.org
 
 ## approve_and_supply_USDC_from_1inch_treasury_to_Aave_v3.json
 This transaction bundle:
