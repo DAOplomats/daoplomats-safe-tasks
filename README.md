@@ -1,5 +1,5 @@
 # DAOplomats SafeSnap Transaction Batches
-SafeSnap transaction batch prepared for DAOplomats.org
+SafeSnap transaction batches prepared for DAOplomats.org
 
 ## Instructions
 When creating the proposal on Snapshot, click to select json file.
