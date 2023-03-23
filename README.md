@@ -1,10 +1,14 @@
-# DAOplomats SafeSnap Transaction Bundles
-SafeSnap transaction bundles prepared for DAOplomats.org
+# DAOplomats SafeSnap Transaction Batches
+SafeSnap transaction batch prepared for DAOplomats.org
+
+## Instructions
+When creating the proposal on Snapshot, click to select json file.
+![Select Transaction Batch File](resources/select-transaction-batch-file.png)
 
 ## Approve and Supply 1,000,000 USDC to Aave V3 on Ethereum
 [approve_and_supply_USDC_from_1inch_treasury_to_Aave_v3.json](https://github.com/MantisClone/daoplomats-safe-tasks/blob/master/approve_and_supply_USDC_from_1inch_treasury_to_Aave_v3.json)
 
-This transaction bundle:
+This transaction batch:
 1. Approves 1,000,000 USDC to the Aave V3 Pool on Ethereum.
 2. Supplies 1,000,000 USDC to the Aave V3 Pool on Ethereum.
 
